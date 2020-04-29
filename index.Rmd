@@ -1,0 +1,17 @@
+---
+title: 'MATH 455  - BookdownLearning'
+author: 'Lijianyang'
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    split_by: chapter
+    config:
+      toc:
+        collapse: section
+        scroll_highlight: yes
+documentclass: book  
+github-repo: MadomBov/BookdownLearning
+---
+
+## Preface
+$$\hat{\beta}$$
